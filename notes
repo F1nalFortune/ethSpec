@@ -1,0 +1,98 @@
+In Order to understand Ethereum, you must understand its origins.
+
+If you missed my first presentation to the class on BitCoin, I will give a brief recap.
+
+SLIDE
+
+Satoshi introduced two new radical concepts.
+	-decentralized P2P online currency w/o central issuer.
+	(Bitcoin’s design was intended specifically for currency)
+	-PoW allow for public agreement on order of transactions.
+
+Attention has started to shift toward the PoW and how blockchain concept can be applied to more than just money.
+eg) financial derivatives, crowdfunding, voting, IoT
+
+SLIDE
+
+This is the idea that gave birth to Ethereum.
+
+SLIDE
+
+2013 Vitalik Buterin laid out  a block chain plan that could support decentralized applications.
+
+
+SLIDE
+
+
+Ethereum was created to provide a framework to run all decentralized applications. Ethereum includes a programming language for users to create smart contracts. These DApps are based on smart contracts.
+
+SLIDE
+
+
+SMART CONTRACT EXAMPLE
+Recall how I said Ethereum has a built in programming language. 
+Let’s say you want to build a new application.
+-You write rules of applications in a piece of code
+-Let’s call that piece of code a contract
+-upload it to the blockchain
+-this new account sits on top of blockchain, users can send transactions to the account in order to interact w/ the account
+-There are 2 types of accounts:
+	-User: controlled by developers
+	Contract: controlled by code
+-Send 1 ether to account controlled by code. No user controls it anymore. Only thing that can move the ether is the execution of the contract itself.
+
+Many practical use cases for this which we could get into later.
+
+Ethereum lays the foundation of a decentralized world wide web. Anything a developer thinks will be hosted everywhere. As opposed to hosting a website on a single server, these DApps will be hosted on an entire network. 
+
+Decentralized Network is a subset of a distributed Network.
+
+SLIDE
+
+
+ETHERUM VIRTUAL MACHINE
+All nodes on network run EVM in addition to validating transactions
+Distributed network of VMs running is known as a world computer
+Separate from main network 
+Testing grounds for smart contracts
+
+
+I believe that the ideas behind Ethereum, which are still being improved today, if executed properly,  will provide a great benefit to people across the globe.
+
+ETH VS BETC
+
+The block chains are in many ways similar to each other. A few key differences, in regards to architecture, is ETH blocks contain a copy of both transaction list and the most recent state.
+Besides that, the block # and difficulty are also stored in the block.
+
+
+
+POS
+Most secure way to do a block chain is PoW. But in PoS, in other trade offs, you try to increase speed and make as secure as possible. It isn’t easy and that’s why it is taking so long.
+
+Sharding
+Scalability
+
+Oe common concern about etherem is the issue of scalability. Like bitcoin, ethereum suffers from the flaw that ev ery transaction needs to be processed by every node in the network. With the size increasing, the problem with such a large blockchain size is centralization risk. Right, let’s say the blockchain size rose to 100 TB. The likely scenerio would be that only a small number of large businesses would run full ondes. This runs the threat that they can band together and cheat in some profitable way. 
+
+Sharding simply put is this: instead of running all smart contracts in one instance, we break up Ethereum into several instances.
+Let’s say that NasDaq DAP is running, and you’re only playing games, you don’t need to run the instructions of nasdaq. Currently if anyone does anything on the chain, everyone else needs to process that. Very important change.
+
+eWASM
+Web Assembly. 
+-Adopting a standard. Big standard when it comes to technology. Google is working with web assembly.
+
+January 23rd 
+
+Anyone interested in upgrading your current programming skills to become a decentralized application developer, SCSU offers a blockchain academy 6 week program which is powered by dapp devs, that allows you to earn a certificate in blockchain programming.
+
+Anyone interested to know more can go on the website or talk to me after class.
+
+Thanks.
+
+Ian Canning
+
+Associate Dean of Graduate and Professional Studies
+
+Canningi1@southernct.edu | 2033925345
+
+

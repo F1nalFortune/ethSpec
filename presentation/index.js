@@ -81,7 +81,6 @@ export default class Presentation extends React.Component {
 
           <Slide transition={["zoom"]} bgImage={images.logo}>
             <Text style={tag} lineHeight={1} textColor="black">
-              ブライアン・フェルプス<br/>
               Brian Phelps JR.
             </Text>
           </Slide>
@@ -122,8 +121,6 @@ export default class Presentation extends React.Component {
               Open Platform<br/><br/>
               enables developers to build & deploy<br/><br/>
               Decentralized Applications (aka smart contract)
-              NOTES
-               Includes programming language for users to create smart contracts<br/><br/>
             </List>
           </Slide>
 
